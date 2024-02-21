@@ -1,0 +1,85 @@
+body {
+    width: 650px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.item1 {
+    background-color: gainsboro;
+    color: #000;
+    height: 60px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.item2 {
+    background-color: gainsboro;
+    color: #000;
+    height: 60px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.item3 {
+    background-color: gainsboro;
+    color: #000;
+    height: 60px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.item4 {
+    background-color: gainsboro;
+    color: #000;
+    height: 60px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.item5 {
+    background-color: gainsboro;
+    color: #000;
+    height: 60px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.one-time {
+    margin-top: 50px;
+}
+
+.text {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.image1 {
+    padding: 10px;
+}
+
+.image2 {
+    padding: 10px;
+}
+
+.image3 {
+    padding: 10px;
+}
+
+.image4 {
+    padding: 10px;
+}
+
+.image5 {
+    padding: 10px;
+}
+
+.image6 {
+    padding: 10px;
+}
+
+.fade {
+    margin-top: 50px;
+}
